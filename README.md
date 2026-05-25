@@ -1,44 +1,11 @@
-# Spotify Clone UI - Flutter
+# 🎵 Spotify Clone UI - Flutter
 
-A responsive Spotify Home Screen UI clone built using Flutter.  
-This project was created as part of a Flutter UI development assignment to demonstrate understanding of Flutter widgets, layouts, responsiveness, and clean UI design practices.
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
----
-
-## Features
-
-- Spotify-inspired dark theme UI
-- Responsive layout for different screen sizes
-- Recently played section
-- Playlist/album cards
-- Horizontal scrolling sections
-- Bottom navigation bar
-- Clean and modular Flutter code structure
-- Reusable widgets
+A professional, high-fidelity Spotify Home Screen clone built using **Flutter**. This project focuses on creating a responsive, modular, and visually appealing dark-themed UI that mimics the actual Spotify mobile experience.
 
 ---
-
-## Tech Stack
-
-- Flutter
-- Dart
-
----
-
-## Project Structure
-
-```text
-lib/
-├── main.dart
-├── screens/
-│   └── home_screen.dart
-├── widgets/
-│   ├── album_card.dart
-│   ├── playlist_section.dart
-│   └── bottom_nav.dart
-├── constants/
-│   └── colors.dart
->>>>>>> d6d79984ff9d9a0d6a8449f00b66ada2ee346394
 
 ## 🚀 Project Overview
 
@@ -61,13 +28,13 @@ This project is a dedicated UI/UX exploration of the Spotify mobile application.
 
 | Home Screen | Music Player |
 | :---: | :---: |
-| ![Home Screen](screenshots/home.png) | ![Player Screen](screenshots/player.png) |
+| ![Home Screen](screenshots/home.jpeg) | ![Player Screen](screenshots/player.jpeg) |
 
 ---
 
 ## 🎥 Demo Video
 
-[Watch the Demo Video](video-link)
+[Watch the Demo Video](videos/video.mp4)
 
 ---
 
