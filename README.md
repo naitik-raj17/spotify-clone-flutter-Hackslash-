@@ -110,7 +110,6 @@ lib/
 
 **Naitik Raj**
 - GitHub: [@naitik-raj](https://github.com/naitik-raj)
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
 
 ---
 
